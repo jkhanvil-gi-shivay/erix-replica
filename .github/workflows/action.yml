@@ -4,5 +4,5 @@ jobs:
  first-job:
   runs-on: ubuntu-latest
   steps:
-    -name: Print Thanks
-    run: echo "Shree Swami Samarth"
+    -name: Print greeting
+     run: echo "Shree Swami Samarth"
